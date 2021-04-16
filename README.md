@@ -20,7 +20,7 @@ while {
 
 lex_ifs:
 
-// return true is the given ascii is a space or a whitespace
+// return true if the given ascii is a space or a whitespace
 return { is_white_space or is_space }
 
 
